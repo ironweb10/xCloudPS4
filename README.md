@@ -4,7 +4,7 @@
   <img src="assets/xcloudps4-rounded.png" width="160" alt="xCloudPS4 logo">
 </p>
 
-An Xbox Cloud Gaming client for the PlayStation 4.
+An Unofficial Xbox Cloud Gaming client for the PlayStation 4.
 
 ## Credits
 
